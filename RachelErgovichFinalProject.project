@@ -18,8 +18,32 @@
           "!type": "External",
           "file": [
             "forms",
-            "Form1",
-            "Form1.json"
+            "navigation",
+            "navigation.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "addBook",
+            "addBook.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "findBook",
+            "findBook.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "topicSearch",
+            "topicSearch.json"
           ]
         }
       ],
@@ -42,7 +66,7 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "Form1",
+      "firstform": "navigation",
       "fontFamily": "system",
       "homescreenTitle": "",
       "icon": "nsb/images/192.png",
